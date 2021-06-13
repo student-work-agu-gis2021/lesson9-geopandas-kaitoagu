@@ -74,7 +74,6 @@ geo.plot()
 
 # Save the GeoDataFrame into a new Shapefile called 'polygon.shp'.
 fp = 'polygon.shp'
-
 # YOUR CODE HERE 5
 geo.to_file(fp)
 # CODE FOR TESTING YOUR SOLUTION
